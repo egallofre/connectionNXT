@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ConexionNXT</string>
+
+    <string name="action_settings">Disable Bluetooth</string>
+    <string name="activar_bt">Enable Bluetooth</string>
+    <string name="salir_bt">Exit</string>
+</resources>
